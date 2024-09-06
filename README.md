@@ -81,4 +81,5 @@ We’ve dialed in our models with hyperparameter tuning to squeeze out every bit
 
 Finally, we save our model into a pickle file, making it easy to deploy and use for real-time predictions. It’s like having your personal car price guru always at your fingertips!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725649329825/f3f1622a-8bac-4ee9-a7c2-171b6ca4d580.png align="center")
+![image](https://github.com/user-attachments/assets/3c056d68-4de1-4a69-8e36-811501271898)
+
