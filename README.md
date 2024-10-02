@@ -7,7 +7,7 @@ Hey, car enthusiasts and data aficionados! 😎🔍 Ever found yourself scratchi
 Drumroll, please… 🥁 Introducing the **Car Resale Value Predictor**! 🌟🎉
 
 ---
-
+ 
 ### 🚗 **The Problem : A Wild Ride**
 
 Navigating the used car market in India is like trying to drive on an uncharted road. Prices bounce around like a rollercoaster, influenced by a myriad of factors - from the make and model to the mileage and even the seller’s mood. 😅 Imagine trying to price your car without a GPS! That’s where our model comes to the rescue.
