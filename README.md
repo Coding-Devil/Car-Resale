@@ -1,4 +1,4 @@
-## Car Resale value predictor  🚗💰
+# Car Resale value predictor  🚗💰
 Assess Your Car's Resale Value!
 ---
 
